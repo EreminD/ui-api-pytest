@@ -1,0 +1,1 @@
+Проект с автотестами для видео [https://youtu.be/p89DjW0eJOE](https://youtu.be/p89DjW0eJOE)
